@@ -11,4 +11,4 @@ elif last_dig == 0:
     print('Last digit of', number, 'is', last_dig, 'and is 0')
 else:
     print('Last digit of', number, 'is', last_dig,
-            'and is less than 6 and not 0')
+          'and is less than 6 and not 0')
